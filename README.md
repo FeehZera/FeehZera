@@ -41,7 +41,7 @@
   <a href="https://discordapp.com/users/429040159636324352" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="40" alt="discord logo"  />
   </a>
-  <a href="filipeschneider2@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=filipeschneider2@gmail.com&su=Vi+seu+perfil+no+GitHub&body=Escreva+sua+mensagem&tf=cm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
   </a>
 </div>
